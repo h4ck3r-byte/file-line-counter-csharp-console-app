@@ -1,0 +1,6 @@
+E:\line counter\bin\Debug\line counter.exe.config
+E:\line counter\bin\Debug\line counter.exe
+E:\line counter\bin\Debug\line counter.pdb
+E:\line counter\obj\Debug\line counter.csprojAssemblyReference.cache
+E:\line counter\obj\Debug\line counter.exe
+E:\line counter\obj\Debug\line counter.pdb
